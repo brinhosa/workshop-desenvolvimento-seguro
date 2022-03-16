@@ -1,8 +1,8 @@
 # workshop-desenvolvimento-seguro
 
-Ferramentas:
+Ferramentas (após abrir o link, clique em Open in Colab):
 https://github.com/brinhosa/workshop-desenvolvimento-seguro/blob/main/workshop_desenvolvimento_seguro.ipynb
-(Clique no Open in Colab)
+
 
 Links:
 https://github.com/brinhosa/workshop-desenvolvimento-seguro
