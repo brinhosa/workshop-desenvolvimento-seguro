@@ -1,10 +1,12 @@
 # workshop-desenvolvimento-seguro
 
 Ferramentas (após abrir o link, clique em Open in Colab):
+
 https://github.com/brinhosa/workshop-desenvolvimento-seguro/blob/main/workshop_desenvolvimento_seguro.ipynb
 
 
 Links:
+
 https://github.com/brinhosa/workshop-desenvolvimento-seguro
 https://vsaq-demo.withgoogle.com/vsaq.html?qpath=questionnaires/webapp.json
 https://owasp.org/www-project-api-security/
