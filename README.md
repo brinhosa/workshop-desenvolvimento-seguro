@@ -40,14 +40,17 @@ XSS poliglota
 https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot
 
 XSS Armazenado 
+
 http://testphp.vulnweb.com/guestbook.php
 
 SQLi
+
 http://testfire.net/login.jsp
 
 https://raw.githubusercontent.com/p4r4n0rm4l/dummy-SQL-injection-site/master/sql.php
 
 Ambientes de Teste:
+
 https://github.com/WebGoat/WebGoat
 
 https://github.com/WebGoat/WebGoat/releases
