@@ -60,3 +60,5 @@ http://testphp.vulnweb.com/
 http://testfire.net/
 
 https://github.com/digininja/DVWA
+
+https://amanhardikar.com/mindmaps/Practice.html
